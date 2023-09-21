@@ -28,3 +28,5 @@ myImage.onclick = () => {
   }
 };
 
+]
+
