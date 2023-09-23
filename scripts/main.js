@@ -29,7 +29,7 @@ myImage.onclick = () => {
   } else {
     myImage.setAttribute("src", "images/firefox-icon.png");
   }
-};
+}
 
 
 
